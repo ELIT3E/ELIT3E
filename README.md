@@ -9,6 +9,8 @@ Schwerpunkte des Unternehmens sind Büroreinigung, Unterhaltsreinigung, Glasrein
 
 ## Inhaber und Fachbuchautor
 
+<img src="assets/julius-harpstedt.jpg" alt="Julius Harpstedt – Inhaber und Fachbuchautor" width="180" />
+
 Julius Harpstedt ist Inhaber der Jonas Gebäudereinigung. Seine Fachbuchreihe „Praxiswissen Gebäudereinigung“ behandelt Qualitätsmanagement und die Organisation von Reinigungsdienstleistungen.
 
 [Autorenwebsite](https://juliusharpstedt.de/) · [Fachbücher](https://juliusharpstedt.de/buecher/) · [Autoren-Impressum](https://juliusharpstedt.de/impressum/)
